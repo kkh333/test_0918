@@ -11,6 +11,7 @@ public class Main {
         System.out.printf("반갑습니다!");
         System.out.printf("아아아");
         System.out.printf("하이하이");
+        System.out.printf("욜로");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
