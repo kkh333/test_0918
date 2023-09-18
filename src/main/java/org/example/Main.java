@@ -9,6 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.printf("안녕하세요!");
         System.out.printf("반갑습니다!");
+        System.out.printf("아아아");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
